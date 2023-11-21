@@ -77,7 +77,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-https://github.com/gyandeeparyan/netflix-gpt
+https://github.com/KajalMukherje/NetflixGPT
 ```
 
 Go to the project directory
@@ -116,7 +116,7 @@ see `contributing.md` for ways to get started
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/KajalMukherje/NetflixGPT/blob/master/CODE_OF_CONDUCT.md)
 
 ## :handshake: Contact
 
