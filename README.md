@@ -120,6 +120,4 @@ Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/b
 
 ## :handshake: Contact
 
-Gyandeep Aryan - - gyandeeparyan.dev@gmail.com
-
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt)
+Kajal Mukherjee - - kajalmukherjee1510@gmail.com
